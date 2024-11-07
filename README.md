@@ -7,3 +7,6 @@ Sometimes when zooming out in a text viewer the art can warp. This can be fixed 
 
 The only requirement is the PIL (Pillow) library. 
 This can be installed with "pip install pillow"
+
+
+![example](https://github.com/ChronosNoob/ASCIIArtGen/blob/main/example.png?raw=true)
